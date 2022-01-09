@@ -30,6 +30,3 @@ Burnaby.save
 Richmond.save
 Gastown.save
 stores = Store.all.count
-
-puts stores
-
